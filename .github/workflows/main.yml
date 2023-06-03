@@ -16,7 +16,7 @@ jobs:
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cp .github/workflows/relaycheck.sh dnscrypt-resolvers/.github/workflows/relaycheck.sh
           cd dnscrypt-resolvers
-          curl https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json | jq -r '.[] | select(.dnssec == true) | select(.ipv6 == false) | select(.nofilter == false) | select(.nolog == true) | select(.proto == "DNSCrypt") | .name,.stamp' public-resolvers.json | sed -e '/family/,+1d' -e '/sfw/,+1d' -e '/nogoogle/,+1d'  -e '/adguard/,+1d' -e '/cleanbrowsing/,+1d' -e '/quad9/,+1d' -e 's/^/## /g' -e 's/## sdns/sdns/g' > public-resolvers.txt > v3/public-resolvers.md
+          curl https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json | jq -r '.[] | select(.dnssec == true) | select(.ipv6 == false) | select(.nofilter == false) | select(.nolog == true) | select(.proto == "DNSCrypt") | .name,.stamp' public-resolvers.json | sed -e '/family/,+1d' -e '/sfw/,+1d' -e '/nogoogle/,+1d'  -e '/adguard/,+1d' -e '/cleanbrowsing/,+1d' -e '/quad9/,+1d' -e 's/^/## /g' -e 's/## sdns/sdns/g' > v3/public-resolvers.md
           .github/workflows/resolverscheck.sh | tee resolverscheck
           sort -u resolverscheck | tee ../resolverscheck
           chmod +x .github/workflows/relaycheck.sh
