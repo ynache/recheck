@@ -22,7 +22,7 @@ pass: anon-cs-nv
 pass: anon-cs-nyc1
 pass: anon-cs-ore
 pass: anon-cs-poland
-pass: anon-cs-pt
+pass: anon-cs-pt (1 retry)
 pass: anon-cs-ro
 pass: anon-cs-rome
 pass: anon-cs-sea
