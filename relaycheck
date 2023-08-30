@@ -12,13 +12,12 @@ pass: anon-cs-fr
 pass: anon-cs-hungary
 pass: anon-cs-il
 pass: anon-cs-ireland
-pass: anon-cs-london
 pass: anon-cs-madrid
 pass: anon-cs-manchester
 pass: anon-cs-nc
 pass: anon-cs-nl
 pass: anon-cs-norway
-pass: anon-cs-nv
+pass: anon-cs-nv (1 retry)
 pass: anon-cs-nyc1
 pass: anon-cs-ore
 pass: anon-cs-poland
