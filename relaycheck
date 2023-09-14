@@ -32,9 +32,7 @@ pass: anon-cs-tokyo
 pass: anon-cs-tx
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
-pass: anon-inconnu
 pass: anon-kama
-pass: anon-meganerd
 pass: anon-openinternet
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -46,4 +44,3 @@ pass: anon-serbica
 pass: anon-sth-se
 pass: anon-techsaviours.org
 pass: anon-tiarap
-pass: anon-v.dnscrypt.uk-ipv4
