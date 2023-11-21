@@ -27,7 +27,6 @@ pass: anon-cs-sea
 pass: anon-cs-serbia
 pass: anon-cs-slovakia
 pass: anon-cs-swe
-pass: anon-cs-sydney
 pass: anon-cs-tokyo
 pass: anon-cs-tx
 pass: anon-dnscrypt.uk-ipv4
@@ -44,6 +43,7 @@ pass: anon-saldns03-conoha-ipv4
 pass: anon-saldns99-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
+pass: anon-serbica
 pass: anon-sth-se
 pass: anon-techsaviours.org
 pass: anon-tiarap
