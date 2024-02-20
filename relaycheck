@@ -28,7 +28,6 @@ pass: anon-cs-la
 pass: anon-cs-london
 pass: anon-cs-madrid
 pass: anon-cs-manchester
-pass: anon-cs-md
 pass: anon-cs-mexico
 pass: anon-cs-milan
 pass: anon-cs-montreal
@@ -81,6 +80,7 @@ pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
+pass: dnscry.pt-anon-atlanta-ipv4
 pass: dnscry.pt-anon-chicago-ipv4
 pass: dnscry.pt-anon-chisinau-ipv4
 pass: dnscry.pt-anon-coeurdalene-ipv4
