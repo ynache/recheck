@@ -28,6 +28,7 @@ pass: anon-cs-la
 pass: anon-cs-london
 pass: anon-cs-madrid
 pass: anon-cs-manchester
+pass: anon-cs-md
 pass: anon-cs-mexico
 pass: anon-cs-milan
 pass: anon-cs-montreal
@@ -142,4 +143,4 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vienna-ipv4
-pass: dnscry.pt-anon-warsaw02-ipv4
+pass: dnscry.pt-anon-warsaw02-ipv4 (1 retry)
