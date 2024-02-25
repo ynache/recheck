@@ -34,6 +34,7 @@ pass: anon-cs-milan
 pass: anon-cs-montreal
 pass: anon-cs-nc
 pass: anon-cs-nl
+pass: anon-cs-nl2
 pass: anon-cs-norway
 pass: anon-cs-nv
 pass: anon-cs-nyc1
@@ -125,14 +126,14 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
-pass: dnscry.pt-anon-santaclara-ipv4 (1 retry)
+pass: dnscry.pt-anon-santaclara-ipv4
 pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
 pass: dnscry.pt-anon-sofia-ipv4
 pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm-ipv4
-pass: dnscry.pt-anon-sydney-ipv4
+pass: dnscry.pt-anon-sydney-ipv4 (1 retry)
 pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
@@ -142,4 +143,3 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vienna-ipv4
-pass: dnscry.pt-anon-warsaw02-ipv4
