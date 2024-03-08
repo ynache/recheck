@@ -92,7 +92,7 @@ pass: dnscry.pt-anon-detroit-ipv4
 pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-ebene-ipv4
-pass: dnscry.pt-anon-eygelshoven-ipv4
+pass: dnscry.pt-anon-eygelshoven-ipv4 (2 retries)
 pass: dnscry.pt-anon-flint-ipv4
 pass: dnscry.pt-anon-frankfurt-ipv4
 pass: dnscry.pt-anon-fremont-ipv4
@@ -121,6 +121,7 @@ pass: dnscry.pt-anon-ottoville-ipv4
 pass: dnscry.pt-anon-paris-ipv4
 pass: dnscry.pt-anon-philadelphia-ipv4
 pass: dnscry.pt-anon-phoenix-ipv4
+pass: dnscry.pt-anon-portedwards-ipv4
 pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
