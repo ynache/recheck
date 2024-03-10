@@ -78,7 +78,6 @@ pass: anon-sth-se
 pass: anon-techsaviours.org
 pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
-pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-atlanta-ipv4
@@ -118,7 +117,6 @@ pass: dnscry.pt-anon-naaldwijk-ipv4
 pass: dnscry.pt-anon-newyork-ipv4
 pass: dnscry.pt-anon-nuremberg-ipv4
 pass: dnscry.pt-anon-ottoville-ipv4
-pass: dnscry.pt-anon-paris-ipv4
 pass: dnscry.pt-anon-philadelphia-ipv4
 pass: dnscry.pt-anon-phoenix-ipv4
 pass: dnscry.pt-anon-portedwards-ipv4
@@ -126,7 +124,7 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
-pass: dnscry.pt-anon-santaclara-ipv4 (2 retries)
+pass: dnscry.pt-anon-santaclara-ipv4
 pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
