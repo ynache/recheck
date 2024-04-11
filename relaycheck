@@ -59,7 +59,7 @@ pass: anon-cs-vancouver
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-fluffycat-fr-01
-pass: anon-fluffycat-fr-02
+pass: anon-fluffycat-fr-02 (2 retries)
 pass: anon-gombadi-chennai
 pass: anon-gombadi-saopaulo
 pass: anon-gombadi-singapore
