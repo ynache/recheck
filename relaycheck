@@ -59,7 +59,7 @@ pass: anon-cs-vancouver
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-fluffycat-fr-01
-pass: anon-fluffycat-fr-02
+pass: anon-fluffycat-fr-02 (3 retries)
 pass: anon-gombadi-chennai
 pass: anon-gombadi-saopaulo
 pass: anon-gombadi-singapore
@@ -67,7 +67,7 @@ pass: anon-gombadi-sydney
 pass: anon-gombadi-tokyo
 pass: anon-inconnu
 pass: anon-kama
-pass: anon-meganerd (1 retry)
+pass: anon-meganerd
 pass: anon-openinternet
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -122,18 +122,15 @@ pass: dnscry.pt-anon-paris-ipv4
 pass: dnscry.pt-anon-philadelphia-ipv4
 pass: dnscry.pt-anon-phoenix-ipv4
 pass: dnscry.pt-anon-portedwards-ipv4
-pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
 pass: dnscry.pt-anon-santaclara-ipv4
-pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
 pass: dnscry.pt-anon-sofia-ipv4
 pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm-ipv4
-pass: dnscry.pt-anon-sydney-ipv4
 pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
