@@ -30,7 +30,7 @@ pass: anon-cs-madrid
 pass: anon-cs-manchester
 pass: anon-cs-mexico
 pass: anon-cs-milan
-pass: anon-cs-montreal (1 retry)
+pass: anon-cs-montreal
 pass: anon-cs-nc
 pass: anon-cs-nl
 pass: anon-cs-nl2
@@ -58,7 +58,7 @@ pass: anon-cs-vancouver
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-fluffycat-fr-01
-pass: anon-fluffycat-fr-02
+pass: anon-fluffycat-fr-02 (2 retries)
 pass: anon-gombadi-chennai
 pass: anon-gombadi-saopaulo
 pass: anon-gombadi-singapore
@@ -125,7 +125,6 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
-pass: dnscry.pt-anon-santaclara-ipv4
 pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
