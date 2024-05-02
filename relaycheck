@@ -58,7 +58,7 @@ pass: anon-cs-vancouver
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-fluffycat-fr-01
-pass: anon-fluffycat-fr-02 (1 retry)
+pass: anon-fluffycat-fr-02
 pass: anon-gombadi-chennai
 pass: anon-gombadi-saopaulo
 pass: anon-gombadi-singapore
@@ -98,7 +98,7 @@ pass: dnscry.pt-anon-fremont-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
-pass: dnscry.pt-anon-hongkong-ipv4 (1 retry)
+pass: dnscry.pt-anon-hongkong-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-kharkiv-ipv4
 pass: dnscry.pt-anon-kyiv-ipv4
@@ -125,7 +125,6 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
-pass: dnscry.pt-anon-santaclara-ipv4 (1 retry)
 pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
@@ -139,6 +138,6 @@ pass: dnscry.pt-anon-taos-ipv4
 pass: dnscry.pt-anon-tokyo-ipv4
 pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
-pass: dnscry.pt-anon-valdivia-ipv4
+pass: dnscry.pt-anon-valdivia-ipv4 (1 retry)
 pass: dnscry.pt-anon-vienna-ipv4
 pass: dnscry.pt-anon-warsaw02-ipv4
