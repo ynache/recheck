@@ -35,7 +35,7 @@ pass: anon-cs-nc
 pass: anon-cs-nl
 pass: anon-cs-nl2
 pass: anon-cs-norway
-pass: anon-cs-nv
+pass: anon-cs-nv (1 retry)
 pass: anon-cs-nyc1
 pass: anon-cs-nyc2
 pass: anon-cs-ore
@@ -43,7 +43,7 @@ pass: anon-cs-poland
 pass: anon-cs-pt
 pass: anon-cs-ro
 pass: anon-cs-rome
-pass: anon-cs-sea
+pass: anon-cs-sea (1 retry)
 pass: anon-cs-serbia
 pass: anon-cs-singapore
 pass: anon-cs-sk
@@ -58,7 +58,7 @@ pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
-pass: anon-fluffycat-fr-01 (1 retry)
+pass: anon-fluffycat-fr-01
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-openinternet
@@ -122,7 +122,7 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
-pass: dnscry.pt-anon-santaclara-ipv4 (2 retries)
+pass: dnscry.pt-anon-santaclara-ipv4
 pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
