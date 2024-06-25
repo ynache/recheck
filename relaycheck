@@ -43,7 +43,7 @@ pass: anon-cs-poland
 pass: anon-cs-pt
 pass: anon-cs-ro
 pass: anon-cs-rome
-pass: anon-cs-sea (1 retry)
+pass: anon-cs-sea
 pass: anon-cs-serbia
 pass: anon-cs-singapore
 pass: anon-cs-sk
@@ -93,7 +93,7 @@ pass: dnscry.pt-anon-frankfurt-ipv4
 pass: dnscry.pt-anon-fremont-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
-pass: dnscry.pt-anon-helsinki-ipv4 (1 retry)
+pass: dnscry.pt-anon-helsinki-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
