@@ -46,6 +46,7 @@ pass: anon-cs-rome
 pass: anon-cs-sea
 pass: anon-cs-serbia
 pass: anon-cs-singapore
+pass: anon-cs-sk
 pass: anon-cs-slovakia
 pass: anon-cs-swe
 pass: anon-cs-sydney
@@ -110,7 +111,6 @@ pass: dnscry.pt-anon-milan-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
 pass: dnscry.pt-anon-mumbai-ipv4
 pass: dnscry.pt-anon-munich-ipv4
-pass: dnscry.pt-anon-naaldwijk-ipv4
 pass: dnscry.pt-anon-newyork-ipv4
 pass: dnscry.pt-anon-nuremberg-ipv4
 pass: dnscry.pt-anon-oradea-ipv4
