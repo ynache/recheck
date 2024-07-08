@@ -80,7 +80,6 @@ pass: dnscry.pt-anon-atlanta-ipv4
 pass: dnscry.pt-anon-auckland-ipv4
 pass: dnscry.pt-anon-budapest-ipv4
 pass: dnscry.pt-anon-chicago-ipv4
-pass: dnscry.pt-anon-chisinau-ipv4
 pass: dnscry.pt-anon-coeurdalene-ipv4
 pass: dnscry.pt-anon-coventry-ipv4
 pass: dnscry.pt-anon-dallas-ipv4
@@ -95,7 +94,7 @@ pass: dnscry.pt-anon-fremont-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
-pass: dnscry.pt-anon-hongkong-ipv4 (2 retries)
+pass: dnscry.pt-anon-hongkong-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
 pass: dnscry.pt-anon-kharkiv-ipv4
