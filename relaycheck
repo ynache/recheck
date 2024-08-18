@@ -32,6 +32,7 @@ pass: anon-cs-manchester
 pass: anon-cs-mexico
 pass: anon-cs-milan
 pass: anon-cs-montreal
+pass: anon-cs-nc
 pass: anon-cs-nl
 pass: anon-cs-nl2
 pass: anon-cs-norway
@@ -91,7 +92,7 @@ pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-eygelshoven-ipv4
 pass: dnscry.pt-anon-flint-ipv4
 pass: dnscry.pt-anon-frankfurt-ipv4
-pass: dnscry.pt-anon-fremont-ipv4
+pass: dnscry.pt-anon-fremont-ipv4 (1 retry)
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
