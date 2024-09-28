@@ -85,8 +85,9 @@ pass: dnscry.pt-anon-bratislava-ipv4
 pass: dnscry.pt-anon-budapest-ipv4
 pass: dnscry.pt-anon-chicago-ipv4
 pass: dnscry.pt-anon-coeurdalene-ipv4
-pass: dnscry.pt-anon-copenhagen-ipv4 (2 retries)
+pass: dnscry.pt-anon-copenhagen-ipv4
 pass: dnscry.pt-anon-coventry-ipv4
+pass: dnscry.pt-anon-dallas-ipv4
 pass: dnscry.pt-anon-denver-ipv4
 pass: dnscry.pt-anon-detroit-ipv4
 pass: dnscry.pt-anon-dublin-ipv4
