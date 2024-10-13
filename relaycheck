@@ -10,7 +10,6 @@ pass: anon-cs-czech
 pass: anon-cs-dc
 pass: anon-cs-de
 pass: anon-cs-dk
-pass: anon-cs-dus2
 pass: anon-cs-dus3
 pass: anon-cs-dus4
 pass: anon-cs-finland
@@ -126,7 +125,6 @@ pass: dnscry.pt-anon-ottoville-ipv4
 pass: dnscry.pt-anon-paris-ipv4
 pass: dnscry.pt-anon-philadelphia-ipv4
 pass: dnscry.pt-anon-phoenix-ipv4
-pass: dnscry.pt-anon-portedwards-ipv4
 pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
