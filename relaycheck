@@ -46,7 +46,6 @@ pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
-pass: anon-fluffycat-fr-01 (2 retries)
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-openinternet
@@ -112,6 +111,7 @@ pass: dnscry.pt-anon-nuremberg-ipv4
 pass: dnscry.pt-anon-oradea-ipv4
 pass: dnscry.pt-anon-ottoville-ipv4
 pass: dnscry.pt-anon-paris-ipv4
+pass: dnscry.pt-anon-philadelphia-ipv4
 pass: dnscry.pt-anon-phoenix-ipv4
 pass: dnscry.pt-anon-portedwards-ipv4
 pass: dnscry.pt-anon-portland-ipv4
