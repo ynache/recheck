@@ -91,7 +91,7 @@ pass: dnscry.pt-anon-frankfurt02-ipv4
 pass: dnscry.pt-anon-fremont-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
-pass: dnscry.pt-anon-grandrapids-ipv4
+pass: dnscry.pt-anon-grandrapids-ipv4 (2 retries)
 pass: dnscry.pt-anon-hafnarfjordur-ipv4
 pass: dnscry.pt-anon-halifax-ipv4
 pass: dnscry.pt-anon-hanoi-ipv4
@@ -105,6 +105,7 @@ pass: dnscry.pt-anon-islamabad-ipv4
 pass: dnscry.pt-anon-jacksonville-ipv4
 pass: dnscry.pt-anon-jakarta-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
+pass: dnscry.pt-anon-johor-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
 pass: dnscry.pt-anon-kharkiv-ipv4
 pass: dnscry.pt-anon-kyiv-ipv4
