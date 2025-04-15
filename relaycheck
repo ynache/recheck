@@ -74,7 +74,7 @@ pass: dnscry.pt-anon-chisinau-ipv4
 pass: dnscry.pt-anon-copenhagen-ipv4
 pass: dnscry.pt-anon-coventry-ipv4
 pass: dnscry.pt-anon-denver-ipv4
-pass: dnscry.pt-anon-dublin-ipv4 (1 retry)
+pass: dnscry.pt-anon-dublin-ipv4
 pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-dusseldorf02-ipv4
@@ -137,7 +137,6 @@ pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm-ipv4
 pass: dnscry.pt-anon-sydney-ipv4
 pass: dnscry.pt-anon-sydney02-ipv4
-pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
 pass: dnscry.pt-anon-taos-ipv4
