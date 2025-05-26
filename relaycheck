@@ -120,7 +120,7 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-prague-ipv4
 pass: dnscry.pt-anon-redditch-ipv4
 pass: dnscry.pt-anon-riga-ipv4
-pass: dnscry.pt-anon-saltlakecity-ipv4
+pass: dnscry.pt-anon-saltlakecity-ipv4 (2 retries)
 pass: dnscry.pt-anon-sandefjord-ipv4
 pass: dnscry.pt-anon-santaclara-ipv4
 pass: dnscry.pt-anon-saopaulo-ipv4
