@@ -104,6 +104,7 @@ pass: dnscry.pt-anon-miami-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
 pass: dnscry.pt-anon-moscow-ipv4
 pass: dnscry.pt-anon-mumbai-ipv4
+pass: dnscry.pt-anon-munich-ipv4
 pass: dnscry.pt-anon-naaldwijk-ipv4
 pass: dnscry.pt-anon-nuremberg-ipv4
 pass: dnscry.pt-anon-oradea-ipv4
@@ -135,6 +136,6 @@ pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-tuusula-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vancouver-ipv4
-pass: dnscry.pt-anon-vilnius-ipv4
+pass: dnscry.pt-anon-vilnius-ipv4 (1 retry)
 pass: dnscry.pt-anon-warsaw02-ipv4
 pass: dnscry.pt-anon-yerevan-ipv4
