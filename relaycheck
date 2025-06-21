@@ -24,7 +24,7 @@ pass: anon-cs-montreal
 pass: anon-cs-nl
 pass: anon-cs-norway
 pass: anon-cs-nv
-pass: anon-cs-nyc
+pass: anon-cs-nyc (1 retry)
 pass: anon-cs-ore
 pass: anon-cs-poland
 pass: anon-cs-pt
@@ -136,6 +136,5 @@ pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-tuusula-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vancouver-ipv4
-pass: dnscry.pt-anon-vilnius-ipv4
 pass: dnscry.pt-anon-warsaw02-ipv4
 pass: dnscry.pt-anon-yerevan-ipv4
