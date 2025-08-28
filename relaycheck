@@ -48,7 +48,6 @@ pass: anon-saldns02-conoha-ipv4
 pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
-pass: anon-scaleway2
 pass: anon-serbica
 pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
