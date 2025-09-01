@@ -53,7 +53,7 @@ pass: anon-serbica
 pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
-pass: dnscry.pt-anon-amsterdam-ipv4 (1 retry)
+pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-amsterdam02-ipv4
 pass: dnscry.pt-anon-athens-ipv4
 pass: dnscry.pt-anon-atlanta-ipv4
@@ -114,7 +114,7 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-prague-ipv4
 pass: dnscry.pt-anon-redditch-ipv4
 pass: dnscry.pt-anon-riga-ipv4
-pass: dnscry.pt-anon-saltlakecity-ipv4 (1 retry)
+pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
 pass: dnscry.pt-anon-santaclara-ipv4
 pass: dnscry.pt-anon-saopaulo-ipv4
