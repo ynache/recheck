@@ -87,7 +87,7 @@ pass: dnscry.pt-anon-ebenecity02-ipv4
 pass: dnscry.pt-anon-flint-ipv4
 pass: dnscry.pt-anon-frankfurt-ipv4
 pass: dnscry.pt-anon-frankfurt02-ipv4
-pass: dnscry.pt-anon-fremont-ipv4
+pass: dnscry.pt-anon-fremont-ipv4 (1 retry)
 pass: dnscry.pt-anon-fremont02-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-gdansk-ipv4
@@ -161,6 +161,7 @@ pass: dnscry.pt-anon-sofia-ipv4
 pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm-ipv4
 pass: dnscry.pt-anon-sydney02-ipv4
+pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
 pass: dnscry.pt-anon-taos-ipv4
