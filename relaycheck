@@ -9,7 +9,7 @@ pass: anon-cs-dc
 pass: anon-cs-de
 pass: anon-cs-dus
 pass: anon-cs-finland
-pass: anon-cs-fl (1 retry)
+pass: anon-cs-fl
 pass: anon-cs-fr
 pass: anon-cs-ga
 pass: anon-cs-hungary
@@ -49,7 +49,6 @@ pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
 pass: anon-scaleway2
-pass: anon-serbica
 pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-adelaide-ipv4
