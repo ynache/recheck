@@ -40,7 +40,6 @@ pass: anon-cs-tx
 pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
-pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
@@ -50,7 +49,6 @@ pass: anon-scaleway
 pass: anon-scaleway-ams
 pass: anon-scaleway2
 pass: anon-serbica
-pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
@@ -67,7 +65,6 @@ pass: dnscry.pt-anon-bogota-ipv4
 pass: dnscry.pt-anon-bratislava-ipv4
 pass: dnscry.pt-anon-brisbane-ipv4
 pass: dnscry.pt-anon-brussels-ipv4
-pass: dnscry.pt-anon-bucharest-ipv4
 pass: dnscry.pt-anon-budapest-ipv4
 pass: dnscry.pt-anon-calgary-ipv4
 pass: dnscry.pt-anon-capetown-ipv4
