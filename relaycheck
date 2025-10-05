@@ -106,7 +106,7 @@ pass: dnscry.pt-anon-hudiksvall-ipv4
 pass: dnscry.pt-anon-ikeja-ipv4
 pass: dnscry.pt-anon-indianapolis-ipv4
 pass: dnscry.pt-anon-islamabad-ipv4
-pass: dnscry.pt-anon-istanbul-ipv4
+pass: dnscry.pt-anon-istanbul-ipv4 (1 retry)
 pass: dnscry.pt-anon-jakarta-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-johannesburg02-ipv4
@@ -173,6 +173,6 @@ pass: dnscry.pt-anon-toronto-ipv4
 pass: dnscry.pt-anon-tuusula-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vancouver-ipv4
-pass: dnscry.pt-anon-vilnius-ipv4 (1 retry)
+pass: dnscry.pt-anon-vilnius-ipv4
 pass: dnscry.pt-anon-warsaw02-ipv4
 pass: dnscry.pt-anon-yerevan-ipv4
