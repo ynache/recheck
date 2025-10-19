@@ -22,7 +22,7 @@ pass: anon-cs-md
 pass: anon-cs-milan
 pass: anon-cs-montreal
 pass: anon-cs-nl
-pass: anon-cs-norway
+pass: anon-cs-norway (1 retry)
 pass: anon-cs-nv
 pass: anon-cs-nyc
 pass: anon-cs-ore
@@ -159,7 +159,7 @@ pass: dnscry.pt-anon-sydney02-ipv4
 pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
-pass: dnscry.pt-anon-taos-ipv4
+pass: dnscry.pt-anon-taos-ipv4 (1 retry)
 pass: dnscry.pt-anon-timisoara-ipv4
 pass: dnscry.pt-anon-tirana-ipv4
 pass: dnscry.pt-anon-tokyo-ipv4
