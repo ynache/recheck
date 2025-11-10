@@ -2,7 +2,6 @@ pass: anon-cs-austria
 pass: anon-cs-barcelona
 pass: anon-cs-belgium
 pass: anon-cs-berlin
-pass: anon-cs-brazil
 pass: anon-cs-ch
 pass: anon-cs-czech
 pass: anon-cs-dc
@@ -43,7 +42,6 @@ pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-jp1.vr.ekinao.com
-pass: anon-jp2.vr.ekinao.com
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -94,7 +92,6 @@ pass: dnscry.pt-anon-gdansk-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
 pass: dnscry.pt-anon-grandrapids-ipv4
 pass: dnscry.pt-anon-guayaquil-ipv4
-pass: dnscry.pt-anon-hafnarfjordur-ipv4
 pass: dnscry.pt-anon-halifax-ipv4
 pass: dnscry.pt-anon-hanoi-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
