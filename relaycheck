@@ -165,5 +165,6 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-tuusula-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vancouver-ipv4
+pass: dnscry.pt-anon-vilnius-ipv4 (1 retry)
 pass: dnscry.pt-anon-warsaw02-ipv4
 pass: dnscry.pt-anon-yerevan-ipv4
