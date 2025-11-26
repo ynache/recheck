@@ -2,6 +2,7 @@ pass: anon-cs-austria
 pass: anon-cs-barcelona
 pass: anon-cs-belgium
 pass: anon-cs-berlin
+pass: anon-cs-brazil
 pass: anon-cs-ch
 pass: anon-cs-czech
 pass: anon-cs-dc
@@ -146,7 +147,6 @@ pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
 pass: dnscry.pt-anon-santaclara-ipv4
-pass: dnscry.pt-anon-saopaulo-ipv4
 pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-seoul-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
@@ -165,6 +165,6 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-tuusula-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vancouver-ipv4
-pass: dnscry.pt-anon-vilnius-ipv4 (1 retry)
+pass: dnscry.pt-anon-vilnius-ipv4
 pass: dnscry.pt-anon-warsaw02-ipv4
 pass: dnscry.pt-anon-yerevan-ipv4
