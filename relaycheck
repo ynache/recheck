@@ -42,7 +42,7 @@ pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
-pass: anon-jp2.vr.ekinao.com
+pass: anon-jp1.vr.ekinao.com (1 retry)
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -109,6 +109,7 @@ pass: dnscry.pt-anon-lagos-ipv4
 pass: dnscry.pt-anon-lasvegas-ipv4
 pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
+pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
