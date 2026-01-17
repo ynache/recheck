@@ -39,11 +39,9 @@ pass: anon-cs-tokyo
 pass: anon-cs-tx
 pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
-pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-jp1.vr.ekinao.com
-pass: anon-jp2.vr.ekinao.com
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -53,7 +51,6 @@ pass: anon-scaleway-ams
 pass: anon-scaleway2
 pass: anon-serbica
 pass: anon-tiarap
-pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allendale-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
@@ -82,6 +79,7 @@ pass: dnscry.pt-anon-chicago-ipv4
 pass: dnscry.pt-anon-chisinau-ipv4
 pass: dnscry.pt-anon-copenhagen-ipv4
 pass: dnscry.pt-anon-coventry-ipv4
+pass: dnscry.pt-anon-dallas-ipv4
 pass: dnscry.pt-anon-denver-ipv4
 pass: dnscry.pt-anon-detroit-ipv4
 pass: dnscry.pt-anon-dhaka-ipv4
