@@ -42,7 +42,7 @@ pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-kama
-pass: anon-saldns01-conoha-ipv4 (1 retry)
+pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
 pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
@@ -52,7 +52,6 @@ pass: anon-serbica
 pass: anon-tiarap
 pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allendale-ipv4
-pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-amsterdam02-ipv4
 pass: dnscry.pt-anon-amsterdam03-ipv4
@@ -87,7 +86,6 @@ pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-ebenecity-ipv4
 pass: dnscry.pt-anon-ebenecity02-ipv4
-pass: dnscry.pt-anon-eygelshoven-ipv4
 pass: dnscry.pt-anon-flint-ipv4
 pass: dnscry.pt-anon-frankfurt02-ipv4
 pass: dnscry.pt-anon-fremont02-ipv4
@@ -123,6 +121,7 @@ pass: dnscry.pt-anon-lisbon-ipv4
 pass: dnscry.pt-anon-lisbon02-ipv4
 pass: dnscry.pt-anon-ljubljana-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
+pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
