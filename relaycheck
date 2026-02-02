@@ -86,7 +86,7 @@ pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-ebenecity-ipv4
 pass: dnscry.pt-anon-ebenecity02-ipv4
-pass: dnscry.pt-anon-eygelshoven-ipv4
+pass: dnscry.pt-anon-eygelshoven-ipv4 (3 retries)
 pass: dnscry.pt-anon-flint-ipv4
 pass: dnscry.pt-anon-frankfurt02-ipv4
 pass: dnscry.pt-anon-fremont02-ipv4
@@ -113,13 +113,13 @@ pass: dnscry.pt-anon-johannesburg02-ipv4
 pass: dnscry.pt-anon-johor-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
 pass: dnscry.pt-anon-kyiv-ipv4
-pass: dnscry.pt-anon-lagos-ipv4
 pass: dnscry.pt-anon-lasvegas-ipv4
 pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
 pass: dnscry.pt-anon-lisbon-ipv4
 pass: dnscry.pt-anon-lisbon02-ipv4
 pass: dnscry.pt-anon-ljubljana-ipv4
+pass: dnscry.pt-anon-london-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
 pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
