@@ -164,7 +164,7 @@ pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
 pass: dnscry.pt-anon-sofia-ipv4
 pass: dnscry.pt-anon-spokane-ipv4
-pass: dnscry.pt-anon-stockholm02-ipv4 (1 retry)
+pass: dnscry.pt-anon-stockholm02-ipv4
 pass: dnscry.pt-anon-sydney02-ipv4
 pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
@@ -173,7 +173,6 @@ pass: dnscry.pt-anon-taos-ipv4
 pass: dnscry.pt-anon-telaviv-ipv4
 pass: dnscry.pt-anon-thessaloniki-ipv4
 pass: dnscry.pt-anon-timisoara-ipv4
-pass: dnscry.pt-anon-tirana-ipv4
 pass: dnscry.pt-anon-tokyo-ipv4
 pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
