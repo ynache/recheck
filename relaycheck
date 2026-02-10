@@ -110,6 +110,7 @@ pass: dnscry.pt-anon-istanbul-ipv4
 pass: dnscry.pt-anon-jena-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-johannesburg02-ipv4
+pass: dnscry.pt-anon-johor-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
 pass: dnscry.pt-anon-kyiv-ipv4
 pass: dnscry.pt-anon-lagos-ipv4
@@ -173,6 +174,7 @@ pass: dnscry.pt-anon-taos-ipv4
 pass: dnscry.pt-anon-telaviv-ipv4
 pass: dnscry.pt-anon-thessaloniki-ipv4
 pass: dnscry.pt-anon-timisoara-ipv4
+pass: dnscry.pt-anon-tirana-ipv4
 pass: dnscry.pt-anon-tokyo-ipv4
 pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
