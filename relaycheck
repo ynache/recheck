@@ -34,7 +34,7 @@ pass: anon-cs-serbia
 pass: anon-cs-singapore
 pass: anon-cs-sk
 pass: anon-cs-swe
-pass: anon-cs-sydney
+pass: anon-cs-sydney (1 retry)
 pass: anon-cs-tokyo
 pass: anon-cs-tx
 pass: anon-cs-vancouver
@@ -82,8 +82,8 @@ pass: dnscry.pt-anon-detroit-ipv4
 pass: dnscry.pt-anon-dhaka-ipv4
 pass: dnscry.pt-anon-dublin-ipv4
 pass: dnscry.pt-anon-durham-ipv4
-pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-ebenecity02-ipv4
+pass: dnscry.pt-anon-eygelshoven-ipv4 (3 retries)
 pass: dnscry.pt-anon-flint-ipv4
 pass: dnscry.pt-anon-frankfurt02-ipv4
 pass: dnscry.pt-anon-fremont02-ipv4
