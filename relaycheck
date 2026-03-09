@@ -8,7 +8,6 @@ pass: anon-cs-czech
 pass: anon-cs-dc
 pass: anon-cs-de
 pass: anon-cs-dus
-pass: anon-cs-finland
 pass: anon-cs-fl
 pass: anon-cs-fr
 pass: anon-cs-ga
@@ -126,6 +125,7 @@ pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
 pass: dnscry.pt-anon-manila-ipv4
 pass: dnscry.pt-anon-melbourne-ipv4
+pass: dnscry.pt-anon-miami-ipv4
 pass: dnscry.pt-anon-milan-ipv4
 pass: dnscry.pt-anon-molln-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
