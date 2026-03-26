@@ -36,12 +36,13 @@ pass: anon-cs-sk
 pass: anon-cs-swe
 pass: anon-cs-sydney
 pass: anon-cs-tokyo
-pass: anon-cs-tx
+pass: anon-cs-tx (1 retry)
 pass: anon-cs-vancouver
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-kama
-pass: anon-saldns02-conoha-ipv4 (1 retry)
+pass: anon-saldns01-conoha-ipv4
+pass: anon-saldns02-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
 pass: anon-scaleway2
