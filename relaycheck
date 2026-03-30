@@ -42,14 +42,15 @@ pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
-pass: anon-saldns02-conoha-ipv4
 pass: anon-saldns03-conoha-ipv4
 pass: anon-scaleway
 pass: anon-scaleway-ams
 pass: anon-scaleway2
 pass: anon-serbica
 pass: anon-tiarap
+pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allendale-ipv4
+pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-amsterdam02-ipv4
 pass: dnscry.pt-anon-amsterdam03-ipv4
@@ -58,12 +59,12 @@ pass: dnscry.pt-anon-athens-ipv4
 pass: dnscry.pt-anon-atlanta-ipv4
 pass: dnscry.pt-anon-auckland-ipv4
 pass: dnscry.pt-anon-baku-ipv4
-pass: dnscry.pt-anon-bangkok-ipv4
 pass: dnscry.pt-anon-barcelona-ipv4
 pass: dnscry.pt-anon-bengaluru-ipv4
 pass: dnscry.pt-anon-berkeleysprings-ipv4
 pass: dnscry.pt-anon-bogota-ipv4
 pass: dnscry.pt-anon-bratislava-ipv4
+pass: dnscry.pt-anon-bremen-ipv4
 pass: dnscry.pt-anon-brisbane-ipv4
 pass: dnscry.pt-anon-brussels-ipv4
 pass: dnscry.pt-anon-bucharest-ipv4
@@ -81,6 +82,8 @@ pass: dnscry.pt-anon-dhaka-ipv4
 pass: dnscry.pt-anon-dublin-ipv4
 pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
+pass: dnscry.pt-anon-dusseldorf02-ipv4
+pass: dnscry.pt-anon-dusseldorf03-ipv4
 pass: dnscry.pt-anon-ebenecity-ipv4
 pass: dnscry.pt-anon-ebenecity02-ipv4
 pass: dnscry.pt-anon-eygelshoven-ipv4
@@ -97,6 +100,7 @@ pass: dnscry.pt-anon-halifax-ipv4
 pass: dnscry.pt-anon-hanoi-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
+pass: dnscry.pt-anon-hongkong02-ipv4
 pass: dnscry.pt-anon-hongkong03-ipv4
 pass: dnscry.pt-anon-houston-ipv4
 pass: dnscry.pt-anon-hudiksvall-ipv4
@@ -123,12 +127,13 @@ pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
+pass: dnscry.pt-anon-manila-ipv4
 pass: dnscry.pt-anon-melbourne-ipv4
 pass: dnscry.pt-anon-miami-ipv4
 pass: dnscry.pt-anon-milan-ipv4
 pass: dnscry.pt-anon-molln-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
-pass: dnscry.pt-anon-moscow-ipv4
+pass: dnscry.pt-anon-moscow-ipv4 (3 retries)
 pass: dnscry.pt-anon-mumbai-ipv4
 pass: dnscry.pt-anon-mumbai02-ipv4
 pass: dnscry.pt-anon-munich-ipv4
@@ -162,6 +167,7 @@ pass: dnscry.pt-anon-sofia-ipv4
 pass: dnscry.pt-anon-spokane-ipv4
 pass: dnscry.pt-anon-stockholm02-ipv4
 pass: dnscry.pt-anon-sydney02-ipv4
+pass: dnscry.pt-anon-taipeh-ipv4
 pass: dnscry.pt-anon-tallinn-ipv4
 pass: dnscry.pt-anon-tampa-ipv4
 pass: dnscry.pt-anon-taos-ipv4
@@ -176,5 +182,7 @@ pass: dnscry.pt-anon-toronto02-ipv4
 pass: dnscry.pt-anon-tuusula-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vancouver-ipv4
+pass: dnscry.pt-anon-vientiane-ipv4
 pass: dnscry.pt-anon-vilnius-ipv4
+pass: dnscry.pt-anon-warsaw-ipv4
 pass: dnscry.pt-anon-yerevan-ipv4
