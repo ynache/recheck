@@ -101,7 +101,6 @@ pass: dnscry.pt-anon-halifax-ipv4
 pass: dnscry.pt-anon-hanoi-ipv4
 pass: dnscry.pt-anon-helsinki-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
-pass: dnscry.pt-anon-hongkong02-ipv4
 pass: dnscry.pt-anon-hongkong03-ipv4
 pass: dnscry.pt-anon-houston-ipv4
 pass: dnscry.pt-anon-hudiksvall-ipv4
@@ -124,7 +123,6 @@ pass: dnscry.pt-anon-lisbon-ipv4
 pass: dnscry.pt-anon-lisbon02-ipv4
 pass: dnscry.pt-anon-ljubljana-ipv4
 pass: dnscry.pt-anon-london-ipv4
-pass: dnscry.pt-anon-losangeles-ipv4
 pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
