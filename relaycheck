@@ -84,7 +84,6 @@ pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-dusseldorf02-ipv4
 pass: dnscry.pt-anon-dusseldorf03-ipv4
-pass: dnscry.pt-anon-ebenecity-ipv4
 pass: dnscry.pt-anon-ebenecity02-ipv4
 pass: dnscry.pt-anon-eygelshoven-ipv4
 pass: dnscry.pt-anon-flint-ipv4
@@ -109,9 +108,8 @@ pass: dnscry.pt-anon-indianapolis-ipv4
 pass: dnscry.pt-anon-islamabad-ipv4
 pass: dnscry.pt-anon-istanbul-ipv4
 pass: dnscry.pt-anon-jacksonville-ipv4
-pass: dnscry.pt-anon-jakarta-ipv4 (1 retry)
+pass: dnscry.pt-anon-jakarta-ipv4
 pass: dnscry.pt-anon-jena-ipv4
-pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-johannesburg02-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
 pass: dnscry.pt-anon-kyiv-ipv4
@@ -155,7 +153,7 @@ pass: dnscry.pt-anon-portedwards-ipv4
 pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-prague-ipv4
 pass: dnscry.pt-anon-queretaro-ipv4
-pass: dnscry.pt-anon-redditch-ipv4 (1 retry)
+pass: dnscry.pt-anon-redditch-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
