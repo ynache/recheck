@@ -82,6 +82,7 @@ pass: dnscry.pt-anon-durham-ipv4
 pass: dnscry.pt-anon-dusseldorf-ipv4
 pass: dnscry.pt-anon-dusseldorf02-ipv4
 pass: dnscry.pt-anon-dusseldorf03-ipv4
+pass: dnscry.pt-anon-ebenecity-ipv4
 pass: dnscry.pt-anon-ebenecity02-ipv4
 pass: dnscry.pt-anon-eygelshoven-ipv4
 pass: dnscry.pt-anon-flint-ipv4
@@ -131,7 +132,6 @@ pass: dnscry.pt-anon-miami-ipv4
 pass: dnscry.pt-anon-milan-ipv4
 pass: dnscry.pt-anon-molln-ipv4
 pass: dnscry.pt-anon-montreal-ipv4
-pass: dnscry.pt-anon-moscow-ipv4
 pass: dnscry.pt-anon-mumbai-ipv4
 pass: dnscry.pt-anon-mumbai02-ipv4
 pass: dnscry.pt-anon-munich-ipv4
