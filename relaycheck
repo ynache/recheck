@@ -1,4 +1,3 @@
-pass: anon-cipherdns-jb1-za
 pass: anon-cs-austria
 pass: anon-cs-barcelona
 pass: anon-cs-belgium
@@ -123,7 +122,6 @@ pass: dnscry.pt-anon-london-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
 pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
-pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
 pass: dnscry.pt-anon-manila-ipv4
 pass: dnscry.pt-anon-marseille-ipv4
